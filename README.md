@@ -1,3 +1,5 @@
+![workshop header logo](./img/minds_and_machines_header.png "workshop header logo")
+
 ## Minds and Machines: Cognitive Science, Artificial Intelligence and Education
 
 ### Purpose of the Workshop
@@ -10,10 +12,10 @@ By the end of this workshop, students will have gained both conceptual knowledge
 10 Feb 2020 - 14 Feb 2020, University of Luxembourg, Belval Campus. More details soon.
 
 
-### Workshop Structure 
-The workshop will span 1 full week (5 days), fulltime. 
-We will interleave lectures, tutorials and team-project work throughout the day. 
-At the end of the workshop students present their project. 
+### Workshop Structure
+The workshop will span 1 full week (5 days), fulltime.
+We will interleave lectures, tutorials and team-project work throughout the day.
+At the end of the workshop students present their project.
 
 ### Instructors (alphabetic):
  - Pedro Cardoso-Leite
@@ -26,11 +28,11 @@ At the end of the workshop students present their project.
 
 ### Students / Audience
 
-The workshop is destined in priority for PhD students from the Unviersity of Luxembourg but is open to anyone for free. Students need to apply (send CV, current project description, recommendations) and are selected by the instructors. 
+The workshop is destined in priority for PhD students from the Unviersity of Luxembourg but is open to anyone for free. Students need to apply (send CV, current project description, recommendations) and are selected by the instructors.
 
 
 ### ECTS
-PhD students from the UL may earn 2 ECTS if they 
+PhD students from the UL may earn 2 ECTS if they
  - register on moodle (link will be provided soon)
  - attend all lectures
  - complete project
@@ -39,24 +41,24 @@ Other people may participate to the workshop as well (e.g., Master students) but
 
 
 ### Pre-requisites
-#### Skills: 
+#### Skills:
  - programming: Participants musk know programming, ideally in Python, in order to complete the projects and earn ECTS. Participants without programming skills may still participate but might not earn ECTS.
 
  - math: Background knowledge in math (Linear Algebra, Probability theory) is desirable.
- 
+
  - English: All courses will be taught in English.
 
 
 
-#### Reading list/Preparation for the workshop: 
+#### Reading list/Preparation for the workshop:
 [Linear Algebra and Learning from Data by Gilbert Strang](http://math.mit.edu/~gs/learningfromdata/)
 Edu Data / Learning Analytics review papers
 AI / CogSci review papers
 
-#### Setup 
+#### Setup
 Bring your own laptop. If you don't have a laptop you may borrow one from the [Luxembourg Learning Center](https://wwwen.uni.lu/luxembourg_learning_centre/services/borrowing_laptops).
 
-In this workshop we will mostly use Python3 and Pytorch. 
+In this workshop we will mostly use Python3 and Pytorch.
 
 
 ### Workshop Program
@@ -90,7 +92,7 @@ In this workshop we will mostly use Python3 and Pytorch.
 | 10:30-12:30 | Tutorial - Pytorch factorization recommender |
 | 14:00-16:00 | NLP & Sentiment Analysis in RecSys (Schommer, Guo) |
 | 16:30-18:30 |  Tutorial NLP anything |
-      
+
 **Evening:**  Project proposal guidance
 
 
@@ -101,7 +103,7 @@ In this workshop we will mostly use Python3 and Pytorch.
 | 10:30-12:30 | Tutorial |
 | 14:00-16:00 | Ecological behavior, looking:  RL analysis (Rothkopf) |
 | 16:30-18:30 | Analysis of eye movements in learning context |
-		
+
 **Evening:**  Project proposal guidance
 
 #### Day 5: Cognitive Modeling
@@ -115,13 +117,10 @@ In this workshop we will mostly use Python3 and Pytorch.
 
 
 ### How to apply
-Participation is free but places are limited and will be filled on a continuous basis. Therefore, if you are interested, apply as soon as possible by sending an email with the following information: 
+Participation is free but places are limited and will be filled on a continuous basis. Therefore, if you are interested, apply as soon as possible by sending an email with the following information:
  - a short cv (in particular explain if you have programming experience)
  - a short motivation letter (who are you? how would you benefit from this workshop?)
- 
+
 Applications should be send by email to [contact@xcit.org](contact@xcit.org)
 
 **Deadline: 31 January 2020**
-
-
-
