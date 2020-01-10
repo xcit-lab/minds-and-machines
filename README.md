@@ -1,6 +1,6 @@
 ![workshop header logo](./img/minds_and_machines_header.png "workshop header logo")
 
-## Minds and Machines: Cognitive Science, Artificial Intelligence and Education
+## Cognitive Science, Artificial Intelligence and Education
 
 ### Purpose of the Workshop
 Learning science as an interdisciplinary subject requires integrating distinct fields and skillsets. In particular, Cognitive Science, which studies and models the human mind, and Artificial Intelligence, which seeks to generate intelligent behavior in machines, share deep theoretical and practical concerns in the domains of education and learning which make interdisciplinary research that spans these two disciplines highly relevant. First, AI is more cognitive than appears at first glance. At the heart of the current AI revolution is a massive transfer of knowledge from humans to machines, in the form of learning from human-labeled and human-structured data. Creating and curating appropriate datasets for training AI systems requires a deep understanding of human-like knowledge representations and the subtleties of converting abstract human knowledge (e.g., what concept or skill a test question assesses) into a machine readable form. Second, AI systems most often have humans as users, as in the case of adaptive learning or assessment, requiring the AI system to maintain human interpretability. Interpretable AI requires the decisions, recommendations and advice delivered to provide sensible interpretations that can be understood by various stakeholders (such as educators, researchers or students), which imposes interesting constraints on learning methodologies for autonomous systems. Finally, Cognitive Science provides proof of concept demonstrations of learned behavior that provide next-generation targets for what AI might achieve. In this workshop we explore these themes through lectures, tutorials, and collaborative projects to enable students to participate in this exciting interdisciplinary research frontier.
@@ -42,18 +42,18 @@ Other people may participate to the workshop as well (e.g., Master students) but
 
 ### Pre-requisites
 #### Skills:
- - programming: Participants musk know programming, ideally in Python, in order to complete the projects and earn ECTS. Participants without programming skills may still participate but might not earn ECTS.
+ - Programming: Participants musk know programming, ideally in Python, in order to complete the projects and earn ECTS. Participants without programming skills may still participate but might not earn ECTS.
 
- - math: Background knowledge in math (Linear Algebra, Probability theory) is desirable.
+ - Math: Background knowledge in math (Linear Algebra, Probability theory) is desirable.
 
  - English: All courses will be taught in English.
 
 
 
 #### Reading list/Preparation for the workshop:
-[Linear Algebra and Learning from Data by Gilbert Strang](http://math.mit.edu/~gs/learningfromdata/)
-Edu Data / Learning Analytics review papers
-AI / CogSci review papers
+ - [Linear Algebra and Learning from Data by Gilbert Strang](http://math.mit.edu/~gs/learningfromdata/)
+ - Edu Data / Learning Analytics review papers (TBD)
+ - AI / CogSci review papers (TBD)
 
 #### Setup
 Bring your own laptop. If you don't have a laptop you may borrow one from the [Luxembourg Learning Center](https://wwwen.uni.lu/luxembourg_learning_centre/services/borrowing_laptops).
@@ -73,8 +73,9 @@ In this workshop we will mostly use Python3 and Pytorch.
 | 11:30-12:30 | Education Intro	(Cardoso-Leite) |
 | 14:00-16:00 | AI Methods / Deep Learning intro (Mussack) |
 | 16:30-18:30 | Setting up tool stack; Bootcamp |
+| Evening | By the end of day 1, students should be able to tackle the tutorials & program using the adequate tool stack.|
 
-**Evening:** By the end of day 1, students should be able to tackle the tutorials & program using the adequate tool stack.
+
 
 #### Day 2: Recommender Systems
 
@@ -84,8 +85,8 @@ In this workshop we will mostly use Python3 and Pytorch.
 | 10:30-12:30 | Tutorial |
 | 14:00-16:00 | Natural Language Processing & Sentiment analysis in RecSys (Schommer, Guo) |
 | 16:30-18:30 | Tutorial |
+| Evening | Group formation, topic roundtable.|
 
-**Evening:**  Group formation, topic roundtable.
 
 #### Day 3: Recommender Systems
 
@@ -95,8 +96,8 @@ In this workshop we will mostly use Python3 and Pytorch.
 | 10:30-12:30 | Tutorial - Pytorch factorization recommender |
 | 14:00-16:00 | NLP & Sentiment Analysis in RecSys (Schommer, Guo) |
 | 16:30-18:30 |  Tutorial NLP anything |
+| Evening | Project proposal guidance |
 
-**Evening:**  Project proposal guidance
 
 
 #### Day 4: Cognitive Modeling
@@ -107,8 +108,8 @@ In this workshop we will mostly use Python3 and Pytorch.
 | 10:30-12:30 | Tutorial |
 | 14:00-16:00 | Ecological behavior, looking:  RL analysis (Rothkopf) |
 | 16:30-18:30 | Analysis of eye movements in learning context |
+| Evening | Project proposal guidance |
 
-**Evening:**  Project proposal guidance
 
 #### Day 5: Cognitive Modeling
 
@@ -117,7 +118,7 @@ In this workshop we will mostly use Python3 and Pytorch.
 | 08:00-10:00 | RL/AI for Learning in Education context (Schrater) |
 | 10:30-12:30 | Bridging AI, Cogsci and Education  (Cardoso-Leite + Roundtable discussion) |
 | 14:00-16:00 | Student/faculty one-on-one/group meetings:  ALL FACULTY
-| 16:30-... | Short student presentations (project proposals, to be graded later).|
+| 16:30-Evening | Short student presentations (project proposals, to be graded later).|
 
 
 
