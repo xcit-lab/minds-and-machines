@@ -64,6 +64,7 @@ In this workshop we will mostly use Python3 and Pytorch.
 ### Workshop Program
 
 #### Day 1:  General Intro
+
 | Time | Topic |
 |----|----|
 | 08:00-09:00 | Theme intro, welcoming remarks (Cardoso-Leite & Schommer) |
@@ -76,6 +77,7 @@ In this workshop we will mostly use Python3 and Pytorch.
 **Evening:** By the end of day 1, students should be able to tackle the tutorials & program using the adequate tool stack.
 
 #### Day 2: Recommender Systems
+
 | Time | Topic |
 |----|----|
 | 08:00-10:00 | RecSys for psychometrics and testing (Cardoso-Leite) |
@@ -86,6 +88,7 @@ In this workshop we will mostly use Python3 and Pytorch.
 **Evening:**  Group formation, topic roundtable.
 
 #### Day 3: Recommender Systems
+
 | Time | Topic |
 |----|----|
 | 08:00-10:00 | Deep Learning for structured data RecSys - Game data Schrater |
@@ -97,6 +100,7 @@ In this workshop we will mostly use Python3 and Pytorch.
 
 
 #### Day 4: Cognitive Modeling
+
 | Time | Topic |
 |----|----|
 | 08:00-10:00 | RL intro (Rothkopf/Schrater) |
@@ -107,6 +111,7 @@ In this workshop we will mostly use Python3 and Pytorch.
 **Evening:**  Project proposal guidance
 
 #### Day 5: Cognitive Modeling
+
 | Time | Topic |
 |----|----|
 | 08:00-10:00 | RL/AI for Learning in Education context (Schrater) |
