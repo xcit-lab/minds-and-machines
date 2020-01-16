@@ -18,13 +18,13 @@ We will interleave lectures, tutorials and team-project work throughout the day.
 At the end of the workshop students present their project.
 
 ### Instructors (alphabetic):
- - Pedro Cardoso-Leite
- - Dominic Mussack
- - Siwen Guo
- - Constantin Rothkopf
- - Christoph Schommer
- - Paul Schrater
- - Morteza Ansarinia (Teaching Assitant)
+ - [Pedro Cardoso-Leite](https://xcit.org/)
+ - [Dominic Mussack](https://xcit.org/)
+ - [Siwen Guo](https://wwwfr.uni.lu/recherche/fstm/dcs/members/siwen_guo)
+ - [Constantin Rothkopf](https://fias.uni-frankfurt.de/~rothkopf/)
+ - [Christoph Schommer](https://wwwfr.uni.lu/index.php/recherche/fstm/interdisciplinary_lab_for_intelligent_and_adaptive_systems_ilias/members/christoph_schommer)
+ - [Paul Schrater](http://schraterlab.umn.edu/)
+ - [Morteza Ansarinia](https://xcit.org/) (Teaching Assistant)
 
 ### Students / Audience
 
