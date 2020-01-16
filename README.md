@@ -11,6 +11,8 @@ By the end of this workshop, students will have gained both conceptual knowledge
 ### When and Where
 10 Feb 2020 - 14 Feb 2020, University of Luxembourg, Belval Campus. More details soon.
 
+Most of the workshop will take place in the *Learning Hub 2.02* room, in the second floor of the Luxembourg Learning Centre.
+
 
 ### Workshop Structure
 The workshop will span 1 full week (5 days), fulltime.
@@ -56,7 +58,7 @@ Other people may participate to the workshop as well (e.g., Master students) but
  - AI / CogSci review papers (TBD)
 
 #### Setup
-Bring your own laptop. If you don't have a laptop you may borrow one from the [Luxembourg Learning Center](https://wwwen.uni.lu/luxembourg_learning_centre/services/borrowing_laptops).
+Bring your own laptop. If you don't have a laptop you may borrow one from the [Luxembourg Learning Centre](https://wwwen.uni.lu/luxembourg_learning_centre/services/borrowing_laptops).
 
 In this workshop we will mostly use Python3 and Pytorch.
 
