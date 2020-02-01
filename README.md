@@ -131,4 +131,4 @@ Participation is free but places are limited and will be filled on a continuous 
 
 Applications should be send by email to [contact@xcit.org](contact@xcit.org)
 
-**Deadline: 31 January 2020**
+**Deadline: 4 February 2020**
