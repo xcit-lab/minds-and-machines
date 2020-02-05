@@ -11,7 +11,7 @@ By the end of this workshop, students will have gained both conceptual knowledge
 ### When and Where
 10 Feb 2020 - 14 Feb 2020, University of Luxembourg, Belval Campus. More details soon.
 
-Most of the workshop will take place in the *Learning Hub 2.02* room, in the second floor of the Luxembourg Learning Centre.
+Most of the workshop will take place in the *Learning Hub 1.01* room, in the first floor of the Luxembourg Learning Centre.
 
 
 ### Workshop Structure
@@ -65,14 +65,16 @@ In this workshop we will mostly use Python3 and Pytorch.
 
 ### Workshop Program
 
+The workshop will take place in 
+
 #### Day 1:  General Intro
 
 | Time | Topic |
 |----|----|
-| 08:00-09:00 | Theme intro, welcoming remarks (Cardoso-Leite & Schommer) |
-| 09:00-10:00 | AI intro (Schommer) |
+| 09:00-09:30 | Welcoming remarks (Cardoso-Leite) |
+| 09:30-10:30 | Education Intro	(Cardoso-Leite) |
 | 10:30-11:30 | CogSci Intro (Schrater) |
-| 11:30-12:30 | Education Intro	(Cardoso-Leite) |
+| 11:30-12:30 | AI intro (Schommer) |
 | 14:00-16:00 | AI Methods / Deep Learning intro (Mussack) |
 | 16:30-18:30 | Setting up tool stack; Bootcamp |
 | Evening | By the end of day 1, students should be able to tackle the tutorials & program using the adequate tool stack.|
