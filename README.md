@@ -93,7 +93,6 @@ The workshop will take place in
 | 09:30-10:30 | Education Intro	(Cardoso-Leite) |
 | 10:30-11:30 | CogSci Intro (Schrater) |
 | 11:30-12:30 | AI intro (Schommer) |
-
 | 14:00-16:00 | Natural Language Processing & Sentiment analysis in RecSys (Schommer, Guo) |
 | 16:30-18:30 | Tutorial |
 | Evening | Group formation, topic roundtable.|
