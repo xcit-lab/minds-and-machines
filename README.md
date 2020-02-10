@@ -3,7 +3,7 @@
 ## Cognitive Science, Artificial Intelligence and Education
 
 ### ATTENTION:
-#### Due to the storm and the potential dangers associated with it, the workshop Minds and Machines is cancelled for this morning. We’re planning to start the workshop this afternoon at 2pm with the AI Methods and Deep Learning intro (Mussack).
+#### Due to the storm and the potential dangers associated with it, the workshop Minds and Machines is cancelled for today and will start on Tuesday 11 February 2020.
 
 
 ### Purpose of the Workshop
@@ -71,64 +71,53 @@ In this workshop we will mostly use Python3 and Pytorch.
 
 The workshop will take place in 
 
-#### Day 1:  General Intro
+#### ~~Day 1:  General Intro~~
 
-| Time | Topic |
-|----|----|
-| 09:00-09:30 | CANCELLED |
-| 09:30-10:30 | CANCELLED |
-| 10:30-11:30 | CANCELLED |
-| 11:30-12:30 | CANCELLED |
-| 14:00-16:00 | AI Methods / Deep Learning intro (Mussack) |
-| 16:30-18:30 | Setting up tool stack; Bootcamp |
-| Evening | By the end of day 1, students should be able to tackle the tutorials & program using the adequate tool stack.|
+*CANCELLED*
 
 
 
-#### Day 2: Recommender Systems
+#### Day 2: Introduction
 
 | Time | Topic |
 |----|----|
 | 09:00-09:30 | Welcoming remarks (Cardoso-Leite) |
 | 09:30-10:30 | Education Intro	(Cardoso-Leite) |
 | 10:30-11:30 | CogSci Intro (Schrater) |
-| 11:30-12:30 | AI intro (Schommer) |
-| 14:00-16:00 | Natural Language Processing & Sentiment analysis in RecSys (Schommer, Guo) |
-| 16:30-18:30 | Tutorial |
-| Evening | Group formation, topic roundtable.|
+| 11:30-12:15 | AI intro (Schommer) |
+| 13:15-16:00 | AI Methods / Deep Learning intro (Mussack) |
+| 16:00-18:30 | Group work |
 
 
 #### Day 3: Recommender Systems
 
 | Time | Topic |
 |----|----|
-| 08:00-10:00 | Deep Learning for structured data RecSys - Game data Schrater |
-| 10:30-12:30 | Tutorial - Pytorch factorization recommender |
-| 14:00-16:00 | NLP & Sentiment Analysis in RecSys (Schommer, Guo) |
-| 16:30-18:30 |  Tutorial NLP anything |
-| Evening | Project proposal guidance |
+| 08:00-10:30 | NLP & Sentiment Analysis in RecSys (Guo) |
+| 10:30-12:30 | IRT, Deep Learning for structured data RecSys, Pytorch factorization recommender (Cardoso-Leite; Schrater)|
+| 14:00-16:00 | NLP-Paper discussion (Schommer) |
+| 16:00-18:00 | Group work |
 
 
 
-#### Day 4: Cognitive Modeling
-
-| Time | Topic |
-|----|----|
-| 08:00-10:00 | RL intro (Rothkopf/Schrater) |
-| 10:30-12:30 | Tutorial |
-| 14:00-16:00 | Ecological behavior, looking:  RL analysis (Rothkopf) |
-| 16:30-18:30 | Analysis of eye movements in learning context |
-| Evening | Project proposal guidance |
-
-
-#### Day 5: Cognitive Modeling
+#### Day 4: Cognitive Modeling, RL
 
 | Time | Topic |
 |----|----|
-| 08:00-10:00 | RL/AI for Learning in Education context (Schrater) |
-| 10:30-12:30 | Bridging AI, Cogsci and Education  (Cardoso-Leite + Roundtable discussion) |
-| 14:00-16:00 | Student/faculty one-on-one/group meetings:  ALL FACULTY
-| 16:30-Evening | Short student presentations (project proposals, to be graded later).|
+| 08:00-10:00 | RL intro (Schrater; Rothkopf) |
+| 10:00-12:00 | Tutorial |
+| 13:00-14:00 | Ecological behavior, looking:  RL analysis (Rothkopf) |
+| 14:00-16:00 | Reading and disucssions |
+| 16:00-18:00 | Group work |
+
+
+#### Day 5: Project Presenations
+
+| Time | Topic |
+|----|----|
+| 08:00-10:00 | Group presenations |
+| 10:00-12:00 | Roundtable discussion |
+| 14:00-18:00 | Group work |
 
 
 
