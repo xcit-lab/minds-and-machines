@@ -2,6 +2,10 @@
 
 ## Cognitive Science, Artificial Intelligence and Education
 
+### ATTENTION:
+#### Due to the storm and the potential dangers associated with it, the workshop Minds and Machines is cancelled for this morning. We’re planning to start the workshop this afternoon at 2pm with the AI Methods and Deep Learning intro (Mussack).
+
+
 ### Purpose of the Workshop
 Learning science as an interdisciplinary subject requires integrating distinct fields and skillsets. In particular, Cognitive Science, which studies and models the human mind, and Artificial Intelligence, which seeks to generate intelligent behavior in machines, share deep theoretical and practical concerns in the domains of education and learning which make interdisciplinary research that spans these two disciplines highly relevant. First, AI is more cognitive than appears at first glance. At the heart of the current AI revolution is a massive transfer of knowledge from humans to machines, in the form of learning from human-labeled and human-structured data. Creating and curating appropriate datasets for training AI systems requires a deep understanding of human-like knowledge representations and the subtleties of converting abstract human knowledge (e.g., what concept or skill a test question assesses) into a machine readable form. Second, AI systems most often have humans as users, as in the case of adaptive learning or assessment, requiring the AI system to maintain human interpretability. Interpretable AI requires the decisions, recommendations and advice delivered to provide sensible interpretations that can be understood by various stakeholders (such as educators, researchers or students), which imposes interesting constraints on learning methodologies for autonomous systems. Finally, Cognitive Science provides proof of concept demonstrations of learned behavior that provide next-generation targets for what AI might achieve. In this workshop we explore these themes through lectures, tutorials, and collaborative projects to enable students to participate in this exciting interdisciplinary research frontier.
 
@@ -71,10 +75,10 @@ The workshop will take place in
 
 | Time | Topic |
 |----|----|
-| 09:00-09:30 | Welcoming remarks (Cardoso-Leite) |
-| 09:30-10:30 | Education Intro	(Cardoso-Leite) |
-| 10:30-11:30 | CogSci Intro (Schrater) |
-| 11:30-12:30 | AI intro (Schommer) |
+| 09:00-09:30 | CANCELLED |
+| 09:30-10:30 | CANCELLED |
+| 10:30-11:30 | CANCELLED |
+| 11:30-12:30 | CANCELLED |
 | 14:00-16:00 | AI Methods / Deep Learning intro (Mussack) |
 | 16:30-18:30 | Setting up tool stack; Bootcamp |
 | Evening | By the end of day 1, students should be able to tackle the tutorials & program using the adequate tool stack.|
@@ -85,8 +89,11 @@ The workshop will take place in
 
 | Time | Topic |
 |----|----|
-| 08:00-10:00 | RecSys for psychometrics and testing (Cardoso-Leite) |
-| 10:30-12:30 | Tutorial |
+| 09:00-09:30 | Welcoming remarks (Cardoso-Leite) |
+| 09:30-10:30 | Education Intro	(Cardoso-Leite) |
+| 10:30-11:30 | CogSci Intro (Schrater) |
+| 11:30-12:30 | AI intro (Schommer) |
+
 | 14:00-16:00 | Natural Language Processing & Sentiment analysis in RecSys (Schommer, Guo) |
 | 16:30-18:30 | Tutorial |
 | Evening | Group formation, topic roundtable.|
@@ -133,4 +140,4 @@ Participation is free but places are limited and will be filled on a continuous 
 
 Applications should be send by email to [contact@xcit.org](contact@xcit.org)
 
-**Deadline: 4 February 2020**
+~~Deadline: 4 February 2020~~
